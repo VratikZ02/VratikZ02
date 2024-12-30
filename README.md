@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VratikZ02
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java, Spring, SpringBoot, MicroService Architecture.
+- 🌱 I’m currently learning Java, Spring, SpringBoot, Microservice Architecture.
 - 💞️ I’m looking to collaborate on still searching...
 - 📫 How to reach me vratik.zade@pinnacle.in
 - 😄 Pronouns: ...
